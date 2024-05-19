@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Supabase",
+    "description": "The Postgres developer platform is now generally available",
+    "website": "https://www.producthunt.com/r/p/451956",
+    "topics": [
+      "Developer Tools",
+      "Database",
+      "SDK"
+    ],
+    "upvotes": 2,
+    "numberComments": 206
+  },
+  {
+    "name": "Cal.com Platform",
+    "description": "Build your pixel-perfect booking experience with Atoms",
+    "website": "https://www.producthunt.com/r/p/451993",
+    "topics": [
+      "Api",
+      "Open Source",
+      "Calendar"
+    ],
+    "upvotes": 1,
+    "numberComments": 116
+  },
+  {
+    "name": "deco.cx 2.0",
+    "description": "Build web apps 10x faster with Deno, JSX, TS & Tailwind",
+    "website": "https://www.producthunt.com/r/p/442706",
+    "topics": [
+      "A/B Testing",
+      "Developer Tools",
+      "Tech"
+    ],
+    "upvotes": 1,
+    "numberComments": 229
+  },
+  {
+    "name": "PaddleBoat",
+    "description": "Perfect your sales pitch with realistic AI roleplays",
+    "website": "https://www.producthunt.com/r/p/452547",
+    "topics": [
+      "Sales",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 1,
+    "numberComments": 273
+  },
+  {
+    "name": "nsave",
+    "description": "Trusted $€£ account abroad for people of unstable economies",
+    "website": "https://www.producthunt.com/r/p/448565",
+    "topics": [
+      "Android",
+      "iOS",
+      "Fintech"
+    ],
+    "upvotes": 1,
+    "numberComments": 155
+  },
+  {
+    "name": "Reflex",
+    "description": "Build web apps in pure Python",
+    "website": "https://www.producthunt.com/r/p/445480",
+    "topics": [
+      "Web App",
+      "Open Source",
+      "Developer Tools"
+    ],
+    "upvotes": 999,
+    "numberComments": 141
+  },
+  {
+    "name": "Musho",
+    "description": "Your new AI design assistant",
+    "website": "https://www.producthunt.com/r/p/451194",
+    "topics": [
+      "Design Tools",
+      "Artificial Intelligence",
+      "Web Design"
+    ],
+    "upvotes": 928,
+    "numberComments": 112
+  },
+  {
+    "name": "Airdrop Tracker",
+    "description": "Discover 300+ largest web3 airdrops. Get AI recommendations",
+    "website": "https://www.producthunt.com/r/p/445411",
+    "topics": [
+      "Crypto",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 910,
+    "numberComments": 107
+  },
+  {
+    "name": "Lancepilot",
+    "description": "Run WhatsApp marketing campaign, tracking, scheduling & CRM",
+    "website": "https://www.producthunt.com/r/p/446568",
+    "topics": [
+      "Messaging",
+      "Marketing"
+    ],
+    "upvotes": 875,
+    "numberComments": 358
+  },
+  {
+    "name": "Boom",
+    "description": "Make your meetings more engaging & fun on Zoom, Meet, Teams",
+    "website": "https://www.producthunt.com/r/p/453322",
+    "topics": [
+      "Mac",
+      "Design Tools"
+    ],
+    "upvotes": 910,
+    "numberComments": 121
+  },
+  {
+    "name": "Komodo 2.0",
+    "description": "The fastest way to record your screen and interactive guides",
+    "website": "https://www.producthunt.com/r/p/443345",
+    "topics": [
+      "Productivity"
+    ],
+    "upvotes": 861,
+    "numberComments": 227
+  },
+  {
+    "name": "SpeedLegal",
+    "description": "Your personal AI contract negotiator",
+    "website": "https://www.producthunt.com/r/p/449574",
+    "topics": [
+      "SaaS",
+      "Legal",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 858,
+    "numberComments": 194
+  },
+  {
+    "name": "UnInbox",
+    "description": "Open source modern email for teams and professionals",
+    "website": "https://www.producthunt.com/r/p/451319",
+    "topics": [
+      "Email",
+      "Productivity"
+    ],
+    "upvotes": 816,
+    "numberComments": 182
+  },
+  {
+    "name": "Draftboard",
+    "description": "Referral bonuses for everyone",
+    "website": "https://www.producthunt.com/r/p/450038",
+    "topics": [
+      "Hiring",
+      "Career",
+      "Community"
+    ],
+    "upvotes": 817,
+    "numberComments": 157
+  },
+  {
+    "name": "Assista AI",
+    "description": "A central nervous system for all your productivity apps",
+    "website": "https://www.producthunt.com/r/p/452215",
+    "topics": [
+      "Productivity",
+      "Task Management"
+    ],
+    "upvotes": 833,
+    "numberComments": 198
+  },
+  {
+    "name": "Boost.space 3",
+    "description": "Enable 1,800+ tools talk to each other",
+    "website": "https://www.producthunt.com/r/p/446007",
+    "topics": [
+      "Productivity",
+      "Sales",
+      "Marketing"
+    ],
+    "upvotes": 787,
+    "numberComments": 157
+  },
+  {
+    "name": "Circle to Search",
+    "description": "From wonder to wisdom, just one drag away",
+    "website": "https://www.producthunt.com/r/p/446812",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Search"
+    ],
+    "upvotes": 787,
+    "numberComments": 130
+  },
+  {
+    "name": "Subframe",
+    "description": "The best way to build UI, fast",
+    "website": "https://www.producthunt.com/r/p/452444",
+    "topics": [
+      "Design Tools",
+      "Website Builder",
+      "Developer Tools"
+    ],
+    "upvotes": 852,
+    "numberComments": 163
+  },
+  {
+    "name": "Airchat",
+    "description": "A social walkie-talkie",
+    "website": "https://www.producthunt.com/r/p/451615",
+    "topics": [
+      "Android",
+      "Messaging",
+      "Social Media"
+    ],
+    "upvotes": 773,
+    "numberComments": 81
+  },
+  {
+    "name": "Retable",
+    "description": "Airtable alternative - one tool to replace them all",
+    "website": "https://www.producthunt.com/r/p/445749",
+    "topics": [
+      "Productivity",
+      "Task Management",
+      "Spreadsheets"
+    ],
+    "upvotes": 767,
+    "numberComments": 194
+  },
+  {
+    "name": "Metaforms AI",
+    "description": "OpenAI + Typeform =  AI for feedback, surveys & research",
+    "website": "https://www.producthunt.com/r/p/447744",
+    "topics": [
+      "Productivity",
+      "User Experience",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 737,
+    "numberComments": 192
+  },
+  {
+    "name": "Truva",
+    "description": "Onboard and retain customers with AI agents",
+    "website": "https://www.producthunt.com/r/p/453831",
+    "topics": [
+      "User Experience",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 727,
+    "numberComments": 91
+  },
+  {
+    "name": "SalesPopup.io",
+    "description": "The fastest way to boost your conversion rate",
+    "website": "https://www.producthunt.com/r/p/449441",
+    "topics": [
+      "Design Tools"
+    ],
+    "upvotes": 720,
+    "numberComments": 196
+  },
+  {
+    "name": "OpusClip Captions",
+    "description": "Caption your shorts like your favorite creators with AI",
+    "website": "https://www.producthunt.com/r/p/449006",
+    "topics": [
+      "Social Media",
+      "Marketing",
+      "Video"
+    ],
+    "upvotes": 718,
+    "numberComments": 82
+  },
+  {
+    "name": "Ramen.Tools",
+    "description": "See what tools other indie makers are using",
+    "website": "https://www.producthunt.com/r/p/449433",
+    "topics": [
+      "Social Media",
+      "Developer Tools"
+    ],
+    "upvotes": 690,
+    "numberComments": 133
+  },
+  {
+    "name": "LangWatch",
+    "description": "Understand, measure and improve your LLMs",
+    "website": "https://www.producthunt.com/r/p/444013",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Data & Analytics"
+    ],
+    "upvotes": 729,
+    "numberComments": 149
+  },
+  {
+    "name": "Keywords AI",
+    "description": "Unified DevOps platform to build AI applications",
+    "website": "https://www.producthunt.com/r/p/448593",
+    "topics": [
+      "Api",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 672,
+    "numberComments": 168
+  },
+  {
+    "name": "Langfuse 2.0",
+    "description": "the open source LLM engineering platform",
+    "website": "https://www.producthunt.com/r/p/452825",
+    "topics": [
+      "Open Source",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 688,
+    "numberComments": 113
+  },
+  {
+    "name": "Neurelo",
+    "description": "Transform your databases into APIs",
+    "website": "https://www.producthunt.com/r/p/452437",
+    "topics": [
+      "Api",
+      "Developer Tools",
+      "Database"
+    ],
+    "upvotes": 664,
+    "numberComments": 121
+  },
+  {
+    "name": "Climatize",
+    "description": "Invest in solar and earn up to 10% annually",
+    "website": "https://www.producthunt.com/r/p/448274",
+    "topics": [
+      "Fintech",
+      "Investing",
+      "Climate Tech"
+    ],
+    "upvotes": 657,
+    "numberComments": 124
+  },
+  {
+    "name": "Univi: Manage your ADHD",
+    "description": "Beat procrastination, learn new habits & enhance your focus",
+    "website": "https://www.producthunt.com/r/p/451932",
+    "topics": [
+      "Meditation",
+      "Education"
+    ],
+    "upvotes": 633,
+    "numberComments": 131
+  },
+  {
+    "name": "BreezeDoc",
+    "description": "Simple e-signature solution for freelancers and consultants",
+    "website": "https://www.producthunt.com/r/p/449357",
+    "topics": [
+      "Web App",
+      "Productivity"
+    ],
+    "upvotes": 632,
+    "numberComments": 198
+  },
+  {
+    "name": "Tweeteasy",
+    "description": "Inspire and improve your tweets in seconds",
+    "website": "https://www.producthunt.com/r/p/448281",
+    "topics": [
+      "Productivity",
+      "Social Media",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 615,
+    "numberComments": 162
+  },
+  {
+    "name": "Collabwriting for Teams",
+    "description": "The easiest way to capture, store & find knowledge",
+    "website": "https://www.producthunt.com/r/p/445633",
+    "topics": [
+      "Browser Extensions",
+      "Chrome Extensions",
+      "Productivity"
+    ],
+    "upvotes": 600,
+    "numberComments": 162
+  },
+  {
+    "name": "CoffeeSpace",
+    "description": "Swipe to meet others exploring ideas and find your cofounder",
+    "website": "https://www.producthunt.com/r/p/453534",
+    "topics": [
+      "Android",
+      "Hiring",
+      "Business"
+    ],
+    "upvotes": 599,
+    "numberComments": 86
+  },
+  {
+    "name": "Ugly Duckling",
+    "description": "Consistency on 𝕏 made easier",
+    "website": "https://www.producthunt.com/r/p/445272",
+    "topics": [
+      "Social Media"
+    ],
+    "upvotes": 574,
+    "numberComments": 182
+  },
+  {
+    "name": "Intellectia.AI",
+    "description": "AI driven stock research platform for smarter investment",
+    "website": "https://www.producthunt.com/r/p/448773",
+    "topics": [
+      "Fintech",
+      "Investing"
+    ],
+    "upvotes": 588,
+    "numberComments": 111
+  },
+  {
+    "name": "ServBay",
+    "description": "The next generation Web Development Environment",
+    "website": "https://www.producthunt.com/r/p/449973",
+    "topics": [
+      "Productivity",
+      "Developer Tools",
+      "Tech"
+    ],
+    "upvotes": 530,
+    "numberComments": 65
+  },
+  {
+    "name": "Superscene 7",
+    "description": "Large update of the most trendy 3D illustration constructor",
+    "website": "https://www.producthunt.com/r/p/451403",
+    "topics": [
+      "Design Tools",
+      "Emoji"
+    ],
+    "upvotes": 547,
+    "numberComments": 30
+  },
+  {
+    "name": "BePresent",
+    "description": "Duolingo for reducing screen time",
+    "website": "https://www.producthunt.com/r/p/452354",
+    "topics": [
+      "iOS",
+      "Health & Fitness",
+      "Productivity"
+    ],
+    "upvotes": 543,
+    "numberComments": 136
+  },
+  {
+    "name": "Sheetgo Forms",
+    "description": "Turn your Google Sheets into forms",
+    "website": "https://www.producthunt.com/r/p/446918",
+    "topics": [
+      "Spreadsheets",
+      "Data & Analytics",
+      "Database"
+    ],
+    "upvotes": 561,
+    "numberComments": 151
+  },
+  {
+    "name": "CodeRabbit",
+    "description": "Cut code review time & bugs in half using AI",
+    "website": "https://www.producthunt.com/r/p/446546",
+    "topics": [
+      "Productivity",
+      "SaaS",
+      "Developer Tools"
+    ],
+    "upvotes": 534,
+    "numberComments": 47
+  },
+  {
+    "name": "Wondershare EdrawMax",
+    "description": "Creativity unleashed innovative diagramming powered by AI",
+    "website": "https://www.producthunt.com/r/p/453337",
+    "topics": [
+      "Productivity",
+      "Analytics"
+    ],
+    "upvotes": 507,
+    "numberComments": 34
+  },
+  {
+    "name": "Atomize",
+    "description": "Advanced Design System for Figma",
+    "website": "https://www.producthunt.com/r/p/449519",
+    "topics": [
+      "Design Tools",
+      "Productivity"
+    ],
+    "upvotes": 518,
+    "numberComments": 72
+  },
+  {
+    "name": "Collato AI Notetaker",
+    "description": "A smart notetaker for busy people",
+    "website": "https://www.producthunt.com/r/p/452332",
+    "topics": [
+      "Productivity",
+      "Meetings",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 519,
+    "numberComments": 105
+  },
+  {
+    "name": "Unlogged",
+    "description": "Open Source tool for mocking, testing & optimising",
+    "website": "https://www.producthunt.com/r/p/449931",
+    "topics": [
+      "Productivity",
+      "Open Source",
+      "Developer Tools"
+    ],
+    "upvotes": 514,
+    "numberComments": 69
+  },
+  {
+    "name": "Grimo AI (Alpha)",
+    "description": "Where Obsidian meets Github & Quora",
+    "website": "https://www.producthunt.com/r/p/452266",
+    "topics": [
+      "Productivity",
+      "Notes",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 471,
+    "numberComments": 73
+  },
+  {
+    "name": "Bright",
+    "description": "Your super app for health (early access)",
+    "website": "https://www.producthunt.com/r/p/454422",
+    "topics": [
+      "iOS",
+      "Health & Fitness",
+      "Health"
+    ],
+    "upvotes": 571,
+    "numberComments": 137
+  },
+  {
+    "name": "OpenUI",
+    "description": "Describe UI and see it rendered live",
+    "website": "https://www.producthunt.com/r/p/449963",
+    "topics": [
+      "Open Source",
+      "Prototyping",
+      "GitHub"
+    ],
+    "upvotes": 491,
+    "numberComments": 36
+  },
+  {
+    "name": "hi.new",
+    "description": "Prevent spam, stay reachable",
+    "website": "https://www.producthunt.com/r/p/452515",
+    "topics": [
+      "Email",
+      "Productivity",
+      "Security"
+    ],
+    "upvotes": 501,
+    "numberComments": 74
+  },
+  {
+    "name": "Langtail Public Beta",
+    "description": "Ship AI apps with fewer surprises",
+    "website": "https://www.producthunt.com/r/p/446934",
+    "topics": [
+      "Productivity",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 497,
+    "numberComments": 125
+  },
+  {
+    "name": "CopyCopter",
+    "description": "Create viral TikToks and Shorts from text to video with Al",
+    "website": "https://www.producthunt.com/r/p/452947",
+    "topics": [
+      "Marketing"
+    ],
+    "upvotes": 511,
+    "numberComments": 122
+  },
+  {
+    "name": "Email Deliverability Booster",
+    "description": "Reach every lead, every time",
+    "website": "https://www.producthunt.com/r/p/445972",
+    "topics": [
+      "Email",
+      "Sales"
+    ],
+    "upvotes": 500,
+    "numberComments": 162
+  },
+  {
+    "name": "Microns v2",
+    "description": "Discover profitable micro-startups for sale",
+    "website": "https://www.producthunt.com/r/p/454152",
+    "topics": [
+      "Investing"
+    ],
+    "upvotes": 613,
+    "numberComments": 146
+  },
+  {
+    "name": "Wizad",
+    "description": "Social media posters in one click with GenAI",
+    "website": "https://www.producthunt.com/r/p/453705",
+    "topics": [
+      "Design Tools",
+      "Social Media",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 481,
+    "numberComments": 106
+  },
+  {
+    "name": "Vidyard AI Avatars",
+    "description": "Generate personalized AI sales video messages at scale",
+    "website": "https://www.producthunt.com/r/p/445643",
+    "topics": [
+      "Messaging",
+      "Sales",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 473,
+    "numberComments": 132
+  },
+  {
+    "name": "IndiePulse",
+    "description": "Find your next side project in seconds",
+    "website": "https://www.producthunt.com/r/p/447183",
+    "topics": [
+      "SaaS",
+      "Tech"
+    ],
+    "upvotes": 478,
+    "numberComments": 66
+  },
+  {
+    "name": "Insights by Ayraa",
+    "description": "A new dimension in enterprise search AI",
+    "website": "https://www.producthunt.com/r/p/446369",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 474,
+    "numberComments": 62
+  },
+  {
+    "name": "Glazed",
+    "description": "Turn Figma designs into tracking plans",
+    "website": "https://www.producthunt.com/r/p/444615",
+    "topics": [
+      "Productivity",
+      "Developer Tools",
+      "Data & Analytics"
+    ],
+    "upvotes": 467,
+    "numberComments": 176
+  },
+  {
+    "name": "AutoRepurpose",
+    "description": "Repurpose YouTube videos, grow your social media 10x faster",
+    "website": "https://www.producthunt.com/r/p/450072",
+    "topics": [
+      "Productivity"
+    ],
+    "upvotes": 461,
+    "numberComments": 115
+  },
+  {
+    "name": "AI Clips by Exemplary",
+    "description": "Create social media ready clips 12x faster with AI",
+    "website": "https://www.producthunt.com/r/p/436399",
+    "topics": [
+      "Social Media"
+    ],
+    "upvotes": 482,
+    "numberComments": 95
+  },
+  {
+    "name": "My-legacy.ai",
+    "description": "Conversational, secure & affordable estate planning platform",
+    "website": "https://www.producthunt.com/r/p/452343",
+    "topics": [
+      "Legal",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 737,
+    "numberComments": 170
+  },
+  {
+    "name": "AI Playlists by Spotify",
+    "description": "Type a prompt and let AI build your playlist",
+    "website": "https://www.producthunt.com/r/p/449860",
+    "topics": [
+      "Music",
+      "Spotify"
+    ],
+    "upvotes": 469,
+    "numberComments": 36
+  },
+  {
+    "name": "Prelaunch AI Idea Validator",
+    "description": "Launch your idea in 3 minutes",
+    "website": "https://www.producthunt.com/r/p/449990",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 447,
+    "numberComments": 92
+  },
+  {
+    "name": "Pullpo.io",
+    "description": "Complete code reviews in hours, not days, right from Slack",
+    "website": "https://www.producthunt.com/r/p/451736",
+    "topics": [
+      "Productivity",
+      "Software Engineering",
+      "Developer Tools"
+    ],
+    "upvotes": 442,
+    "numberComments": 69
+  },
+  {
+    "name": "Latitude",
+    "description": "Open-source framework for embedded analytics",
+    "website": "https://www.producthunt.com/r/p/452596",
+    "topics": [
+      "Open Source",
+      "Developer Tools",
+      "GitHub"
+    ],
+    "upvotes": 441,
+    "numberComments": 43
+  },
+  {
+    "name": "AI Design Sketch by Stylar",
+    "description": "Turn design sketches to product images online",
+    "website": "https://www.producthunt.com/r/p/452550",
+    "topics": [
+      "Design Tools",
+      "Graphic Design"
+    ],
+    "upvotes": 436,
+    "numberComments": 64
+  },
+  {
+    "name": "VenturePals",
+    "description": "Your entrepreneurial buddy to achieve goals with",
+    "website": "https://www.producthunt.com/r/p/437709",
+    "topics": [
+      "Productivity",
+      "Task Management"
+    ],
+    "upvotes": 444,
+    "numberComments": 148
+  },
+  {
+    "name": "Limitless",
+    "description": "Personalized AI powered by what you’ve seen, said, or heard",
+    "website": "https://www.producthunt.com/r/p/452162",
+    "topics": [
+      "Meetings",
+      "Wearables",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 420,
+    "numberComments": 24
+  },
+  {
+    "name": "eezyCollab",
+    "description": "AI-powered influencer marketing tool",
+    "website": "https://www.producthunt.com/r/p/450338",
+    "topics": [
+      "Productivity",
+      "Marketing",
+      "Artificial Intelligence"
+    ],
+    "upvotes": 455,
+    "numberComments": 114
+  },
+  {
+    "name": "SnapSign",
+    "description": "Secure your media rights on-the-go",
+    "website": "https://www.producthunt.com/r/p/452339",
+    "topics": [
+      "Productivity",
+      "Photography",
+      "Video"
+    ],
+    "upvotes": 413,
+    "numberComments": 107
+  },
+  {
+    "name": "Leapsome Meetings",
+    "description": "Make meetings count, collaborate on agenda and action steps",
+    "website": "https://www.producthunt.com/r/p/443055",
+    "topics": [
+      "Web App",
+      "Productivity",
+      "Meetings"
+    ],
+    "upvotes": 425,
+    "numberComments": 158
+  },
+  {
+    "name": "Cascadeur 2.0",
+    "description": "You can clean up and edit assets and mocap with AI",
+    "website": "https://www.producthunt.com/r/p/449874",
+    "topics": [
+      "Artificial Intelligence",
+      "3D Modeling",
+      "Animation"
+    ],
+    "upvotes": 404,
+    "numberComments": 24
+  },
+  {
+    "name": "Tailscan Devtools",
+    "description": "The ultimate developer tool for Tailwind CSS",
+    "website": "https://www.producthunt.com/r/p/449255",
+    "topics": [],
+    "upvotes": 411,
+    "numberComments": 62
+  }
+]
