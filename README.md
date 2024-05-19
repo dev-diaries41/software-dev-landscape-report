@@ -2,7 +2,7 @@
 
 ## Overview
 
-As someone who loves to code, I often find myself going down the coding rabbit hole, where I make products just because, rather than to launch a product. I'm sure many developers and indie hackers can relate. However, I decided to start only making data-driven decisions. No coding until I have validated my idea and found a way to execute it. This approach ensures that each development effort is purposeful and backed by concrete insights, enhancing the overall efficiency and effectiveness of the product development process.
+As someone who loves to code, I often find myself going down the coding rabbit hole, where I make software just because, rather than to launch a viable validated product. I'm sure many developers and indie hackers can relate. However, I decided to start only making data-driven decisions. No coding until I have validated my idea and found a way to execute it. This approach ensures that each development effort is purposeful and backed by concrete insights, enhancing the overall efficiency and effectiveness of the product development process.
 
 ### Key Takeaways
 
